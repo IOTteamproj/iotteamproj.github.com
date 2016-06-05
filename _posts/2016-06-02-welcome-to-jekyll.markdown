@@ -13,7 +13,9 @@
 
 3) 집이 부재중일 시 지인을 초대하면, 비밀번호를 직접 알려주는 방식을 택했을 때 비밀번호를 매번 교체해주어야만 하는 번거로움이 생긴다는 단점이 있다.
 
-### 2-2. 핵심 아이디어
+##2. 해결방안 및 유사 사례
+
+### 2-1. 핵심 아이디어
 
 1) Bluetooth와 Wifi 기능을 탑재하여 원거리에서도 도어락의 개폐가 가능하다.
 
@@ -29,9 +31,7 @@
 
 7) Application을 통해 도어락의 배터리 상태를 확인할 수 있고, 배터리가 방전될 경우 외부 전원을 통해 일시적으로 도어락 사용 가능해진다.
 
-![](http://cfs11.tistory.com/image/33/tistory/2009/02/26/22/41/49a69bf854e7c)
-
-### 2-3. 유사사례
+### 2-2. 유사사례
 
 ![](http://www.samsungsds-nss.com/ko/solution/country/ddl/img/SHS-h511_001.jpg)
 
@@ -42,3 +42,15 @@
 2) 기존 비밀번호만을 입력하는 도어락의 기능에 핸드폰의 NFC 기능을 추가
 
 3) 등록된 NFC 기능을 활성화 하여 도어락 근처에 핸드폰을 가져다 대면 도어락이 동작
+
+##3. 시스템 설계
+
+### 3-1. 시스템 구조
+
+![](https://lh3.googleusercontent.com/-6IghTG_ewgk/V1QJeQCv80I/AAAAAAAAAA0/RnNwYVdpsiAlPFQ1_eBkuW8yIYeSJwVEwCL0B/w953-h491-no/%25EA%25B5%25AC%25EC%25A1%25B0.png)
+
+도어락과 사용자의 어플리케이션을 Wifi와 Bluetooth를 이용하여 상호작용합니다. 블
+
+### 3-2. 시스템 기능
+
+### 3-3. 기능에 대한 모듈
