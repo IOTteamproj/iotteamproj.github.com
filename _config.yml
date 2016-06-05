@@ -16,8 +16,8 @@ description: "<h3>IoT_TeamProject</h3><h1>Smart Door Lock</h1><h3>Awesome Smart 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
