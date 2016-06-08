@@ -1,58 +1,20 @@
-
-# Term Project
-
-##1. 문제정의
-
-### 1.1	필요성 및 문제분석
-
-늘어나는 1인 가구와 이에 비례하여 늘어나는 강력 범죄에 따라, 방범에 대한 관심 또한 높아지고 있다. 디지털 도어락은 이제 가정의 필수품이 되어가고 있으며 특히, 신규 건설되는 아파트는 디지털 도어락이 기본으로 설치되는 추세이다. 하지만 기존 디지털 도어락은 몇 가지 문제점이 있다.
-
-1) 낡은 버튼이나 지문 자국을 통해 비밀번호를 유추하거나, 최근에는 몰래카메라를 이용하여 비밀번호를 알아내어 범죄를 일으키는 사건이 잦아지는 등 외부 침입에 취약해진다는 점이다.
-
-2) 손에 짐이 많거나, 주변에 사람이 있을 경우 주의하여 비밀번호를 치려면 번거로워진다는 문제점이 있다. 이러한 문제점을 해결하기 위해 기존 NFC를 이용하여 스마트폰을 이용하여 문의 잠금을 해제하는 제품이 나와있으나, 이는 사용자가 도어락에 직접 스마트폰을 가져다 대야 하는 방식이다.
-
-3) 집이 부재중일 시 지인을 초대하면, 비밀번호를 직접 알려주는 방식을 택했을 때 비밀번호를 매번 교체해주어야만 하는 번거로움이 생긴다는 단점이 있다.
-
-
-##2. 해결방안 및 유사 사례
-
-### 2-1. 핵심 아이디어
-
-1) Bluetooth와 Wifi 기능을 탑재하여 원거리에서도 도어락의 개폐가 가능하다.
-
-2) 도어락에 카메라를 추가하여 방문객이 방문하였을 경우나, 신원이 확인되지 않은 사람이 문 앞에 서성거릴 때 사진과 동영상을 촬영하여 실시간으로 관리자의 Application에 전송한다.
-
-3) 신원이 확인된 방문객일 경우, 방문객의 출입이 허용 가능해진다.
-
-4) 본인의 집에 방문자가 찾아오기로 한 경우 관리자가 방문객에게 초대장을 보내 그 방문자가 도어락을 작동시킬 수 있는 Bluetooth권한을 1회 부여한다.
-
-5) 권한을 부여받지 않은 Bluetooth를 이용하여 임의로 도어락 개폐를 시도할 시 도어락의 기능이 정지되며 관리자의 Application을 통해서만 정지된 기능을 다시 활성화 가능하다.
-
-6) 관리자가 오랜기간동안 집을 비울 경우를 대비하여, Application을 통해 수동으로 도어락 전원을 끌 수 있는 기능이 있다.
-
-7) Application을 통해 도어락의 배터리 상태를 확인할 수 있고, 배터리가 방전될 경우 외부 전원을 통해 일시적으로 도어락 사용 가능해진다.
-
-### 2-2. 유사사례
-
-![](http://www.samsungsds-nss.com/ko/solution/country/ddl/img/SHS-h511_001.jpg)
-
-이 제품은 삼성SDS 삼성 스마트 도어록 ‘SHS-H511‘라는 제품으로 현재 가장 인기있는 도어락 모델 중 하나입니다. 기존 비밀번호만을 입력하는 도어락에 비해 삼성 스마트 도어락은 비밀번호를 입력하는 것 뿐만 아니라 핸드폰의 NFC 기능을 사용하여 손쉽게 문을 열 수 있다는 것입니다. 등록된 NFC 기능을 활성화하여 도어락 근처에 핸드폰을 가져다 대면 문이 열리도록 동작하는 방식으로 편의성에 조금 더 초점을 둔 제품이라고 할 수 있습니다.
-
-1) 삼성SDS 삼성 스마트 도어락 ‘SHS-H511'
-
-2) 기존 비밀번호만을 입력하는 도어락의 기능에 핸드폰의 NFC 기능을 추가
-
-3) 등록된 NFC 기능을 활성화 하여 도어락 근처에 핸드폰을 가져다 대면 도어락이 동작
-
-
-##3. 시스템 설계
-
-### 3-1. 시스템 구조
-
-![](https://lh3.googleusercontent.com/-6IghTG_ewgk/V1QJeQCv80I/AAAAAAAAAA0/RnNwYVdpsiAlPFQ1_eBkuW8yIYeSJwVEwCL0B/w953-h491-no/%25EA%25B5%25AC%25EC%25A1%25B0.png)
-
-도어락과 사용자의 어플리케이션을 Wifi와 Bluetooth를 이용하여 상호작용합니다. 블
-
-### 3-2. 시스템 기능
-
-### 3-3. 기능에 대한 모듈
+
+## 작업일지
+
+ 2016년 6월 5일
+
+ 1) 아이디어 결정, 블로그 프레임 수정
+
+ 2) 문제정의, 해결방안 및 유사사례, 시스템 설계 작성
+
+ 3) 보고서 작성 파트 분할
+
+![](https://lh6.googleusercontent.com/-EbUbGtLOEUc/V1ggDITAcEI/AAAAAAAAAB4/UThupJiD0CEkhDbAJcVaU26dF28lULsAgCL0B/w960-h540-no/1.jpg)
+
+![](https://lh6.googleusercontent.com/-KkTXwJISBY4/V1ggDJgYD9I/AAAAAAAAAB4/bNzVi6dRjfcue7QtqJ2UxPJj7zUYm8ZJgCL0B/w960-h540-no/2.jpg)
+
+![](https://lh6.googleusercontent.com/-5X-tLzmPn0k/V1ggDAfjPmI/AAAAAAAAAB4/3aQw4ysNoQw7G9CcVN0K8HhxrMhApjSZACL0B/w960-h720-no/3.jpg)
+
+![](https://lh6.googleusercontent.com/-4aU1l6BcFdY/V1ggDlDyMzI/AAAAAAAAAB4/1exAl2KCKTc_kHGilGeou5xj0iFzCwxCgCL0B/w960-h720-no/4.jpg)
+
+![](https://lh4.googleusercontent.com/-jN2ESHgRQo8/V1ggDqijCVI/AAAAAAAAAB4/iFAijpLvAqku6ONcISp_mJy0VWogNRqCgCL0B/w960-h720-no/5.jpg)
