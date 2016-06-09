@@ -145,3 +145,30 @@ date:   2016-06-02 15:22:09 +0900
 
 
 
+1) 사용자 추가 모듈
+![](https://lh3.googleusercontent.com/2doBHSuXZ8gwOwRH_nfClw71VHckkGV95kAlAnFKOQvxO-j2xXDYwYu0g1dFQaJRItRGjVI=s167)
+
+
+
+2) 사용자 제거 모듈
+![](https://lh3.googleusercontent.com/G-61ZrWqUb6WSphGVUs1Z4yLg42o9RwtGpCs6EsD339sA7duPj1bqN1XYGU3kMeL_6Wq8Q=s170)
+
+
+3) 사용자 인식 모듈
+![](https://lh3.googleusercontent.com/4iSaPDBnye0cYEZbwMpAL4VvUuDZN2ILygbmAknN8j1-tFu_znDZGzMeUSCXG_62yM8R=s170)
+
+
+4) 보안영상 저장 모듈
+![](https://lh3.googleusercontent.com/WbErjxvX3bUymVHGh2ss_C3RawKGlQMJeWpD0U5SFSb1SYQOdD8LTj2wMMctnKy982zjzQ=s170)
+
+
+5) 보안영상 관리 모듈
+![](https://lh3.googleusercontent.com/RWZUnLbPv8wQVWuUT0aACCDuCoY3RUTnn2AHim4FJEokC5ppR4vlfroY8gTK0f7rF8vdRg=s162)
+
+
+6) 초대 모듈
+![](https://lh3.googleusercontent.com/TLjpG8bTxbIFaygQ4GGl5SeLrXmD4XcilNmL6zgSZP1gZaUfP7rpDpQ5JyAxwhFD0pXYxFo=s170)
+
+
+7) 도어락 잠금 모듈
+![](https://lh3.googleusercontent.com/HNNgoMuInPkJGLRPl-bFOkkf5b1SIHh5nmUeGOscVo2_JnQO244NQyQXwfW-dCJSJRC5YQ=s170)
