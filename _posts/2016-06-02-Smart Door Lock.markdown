@@ -89,11 +89,11 @@ date:   2016-06-02 15:22:09 +0900
 
 
 
-> 1) 기존의 도어락은 비밀번호를 입력하거나, 카드키를 가져다 대거나, NFC가 활성화된 휴대폰을 도어락에 가져다 대는 등 사용자가 잠금을 해제하기 위해 상응하는 행동을 해야만 문이 열렸다. 이러한 원래의 잠금 방법과는 달리, Smart Door Lock은 도어락 가까이에 접근하기만 하면 문이 자동으로 열림으로써 사용자는 단순히 문에 다가가는 것 만으로 잠금을 해제할 수 있다.
+	> 1) 기존의 도어락은 비밀번호를 입력하거나, 카드키를 가져다 대거나, NFC가 활성화된 휴대폰을 도어락에 가져다 대는 등 사용자가 잠금을 해제하기 위해 상응하는 행동을 해야만 문이 열렸다. 이러한 원래의 잠금 방법과는 달리, Smart Door Lock은 도어락 가까이에 접근하기만 하면 문이 자동으로 열림으로써 사용자는 단순히 문에 다가가는 것 만으로 잠금을 해제할 수 있다.
 
 ![](https://lh3.googleusercontent.com/-AMFr2D8wkHg/V1h4OalYtVI/AAAAAAABPIo/eYgv6-mZYNQA5gH6gwDBMU1KiWWCQx3UwCL0B/w475-h577-no/%25EA%25B7%25B8%25EB%25A6%25BC1.jpg)
 
-> 2) 기존 제품과는 달리 Bluetooth와Wifi 기능을 탑재하여 원거리에서도 도어락의 개폐가 가능하며, 초대장 기능을 탑재하여 방문자가 찾아오기로 한 경우 방문자에게 1회용 잠금 해제 권한 일임이 가능케 한다거나, 방문객의 사진과 동영상을 Application으로 실시간으로 확인할 수 있게 하는 등의 기능이 추가되어 더욱 편리하고 안전한 이용을 할 수 있도록 한다.
+	> 2) 기존 제품과는 달리 Bluetooth와Wifi 기능을 탑재하여 원거리에서도 도어락의 개폐가 가능하며, 초대장 기능을 탑재하여 방문자가 찾아오기로 한 경우 방문자에게 1회용 잠금 해제 권한 일임이 가능케 한다거나, 방문객의 사진과 동영상을 Application으로 실시간으로 확인할 수 있게 하는 등의 기능이 추가되어 더욱 편리하고 안전한 이용을 할 수 있도록 한다.
 
 ![](https://lh6.googleusercontent.com/-P16ObHS8vZU/V1h4OqIZkCI/AAAAAAABPIo/rWjKIBYIwDYWtIqGLDT1So-xFOH1aHLAACL0B/w559-h577-no/%25EA%25B7%25B8%25EB%25A6%25BC2.jpg)
 
@@ -146,11 +146,13 @@ date:   2016-06-02 15:22:09 +0900
 
 
 1) 사용자 추가 모듈
+
 ![](https://lh3.googleusercontent.com/2doBHSuXZ8gwOwRH_nfClw71VHckkGV95kAlAnFKOQvxO-j2xXDYwYu0g1dFQaJRItRGjVI=s167)
 
 
 
 2) 사용자 제거 모듈
+
 ![](https://lh3.googleusercontent.com/G-61ZrWqUb6WSphGVUs1Z4yLg42o9RwtGpCs6EsD339sA7duPj1bqN1XYGU3kMeL_6Wq8Q=s170)
 
 
@@ -159,16 +161,20 @@ date:   2016-06-02 15:22:09 +0900
 
 
 4) 보안영상 저장 모듈
+
 ![](https://lh3.googleusercontent.com/WbErjxvX3bUymVHGh2ss_C3RawKGlQMJeWpD0U5SFSb1SYQOdD8LTj2wMMctnKy982zjzQ=s170)
 
 
 5) 보안영상 관리 모듈
+
 ![](https://lh3.googleusercontent.com/RWZUnLbPv8wQVWuUT0aACCDuCoY3RUTnn2AHim4FJEokC5ppR4vlfroY8gTK0f7rF8vdRg=s162)
 
 
 6) 초대 모듈
+
 ![](https://lh3.googleusercontent.com/TLjpG8bTxbIFaygQ4GGl5SeLrXmD4XcilNmL6zgSZP1gZaUfP7rpDpQ5JyAxwhFD0pXYxFo=s170)
 
 
 7) 도어락 잠금 모듈
+
 ![](https://lh3.googleusercontent.com/HNNgoMuInPkJGLRPl-bFOkkf5b1SIHh5nmUeGOscVo2_JnQO244NQyQXwfW-dCJSJRC5YQ=s170)
