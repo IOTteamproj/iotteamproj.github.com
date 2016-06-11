@@ -178,3 +178,32 @@ date:   2016-06-02 15:22:09 +0900
 7) 도어락 잠금 모듈
 
 ![](https://lh3.googleusercontent.com/HNNgoMuInPkJGLRPl-bFOkkf5b1SIHh5nmUeGOscVo2_JnQO244NQyQXwfW-dCJSJRC5YQ=s170)
+
+
+
+
+
+### 3-4. 구성요소 간 동작흐름
+
+
+1) 도어락 개폐 기능
+
+
+
+
+
+2) 카메라 보안 기능
+
+
+
+
+
+3) 초대장 기능
+
+
+
+
+
+4) 도어락 shutdown 기능
+
+
